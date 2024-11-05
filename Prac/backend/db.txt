@@ -1,0 +1,16 @@
+category
+    id (PK)
+    name
+
+option
+    id (PK)
+    name
+    category_id (FK)
+
+user
+    id (PK)
+
+vote
+    userid (FK) (PK)
+    category_id (FK)
+    option_id(FK) (PK)

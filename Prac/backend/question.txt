@@ -1,0 +1,5 @@
+    -Users can see a list of categories
+    -Once users select a category, they can see different options to vote for. Options can have a name.
+    -Once a user votes for an option, that should be recorded. If the vote is changed, the previous vote should be replaced with the new one for that category
+    -Users can click a refresh button to see the result.
+    -No need for User authentication
